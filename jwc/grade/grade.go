@@ -97,6 +97,14 @@ func GetALL(c *colly.Collector) Grades {
 }
 
 // GetNotPass 获取所有不及格成绩
-func GetNotPass() {
-
+func GetNotPass(c *colly.Collector) Grades {
+	termNames := []string{"尚不及格", "曾不及格"}
+	i := 0
+	var grades Grades
+	c.OnHTML("#user", func(e *colly.HTMLElement) {
+		grades = append(grades, get(e.DOM, 0, 0, termNames[i])...)
+		i++
+	})
+	c.Visit(jwc.DOMAIN + "/gradeLnAllAction.do?type=ln&oper=bjg")
+	return grades
 }

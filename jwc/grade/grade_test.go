@@ -56,3 +56,27 @@ func TestGetALL(t *testing.T) {
 		})
 	}
 }
+
+func TestGetNotPass(t *testing.T) {
+	c, _ := jwc.Login(test.StudentID, test.Password)
+	type args struct {
+		c *colly.Collector
+	}
+	tests := []struct {
+		name string
+		args args
+	}{
+		{
+			name: "test",
+			args: args{
+				c: c,
+			},
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			got := GetNotPass(tt.args.c)
+			log.Println(got)
+		})
+	}
+}

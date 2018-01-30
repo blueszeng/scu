@@ -6,7 +6,7 @@
 
 ## Test
 
-复制`conf_test.go.example`为`conf_test.go`,并且按照提示输入一个正确的账号密码
+复制`test/conf.go.example`为`test/conf.go`,并且按照提示输入一个正确的账号密码
 ```go
 go test -v
 ```

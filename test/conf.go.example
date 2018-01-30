@@ -1,0 +1,8 @@
+package test
+
+const (
+	// StudentID 学号
+	StudentID = "输入正确的学号/工号"，
+	// Password 密码
+	Password = "输入my.scu.edu.cn密码"
+)

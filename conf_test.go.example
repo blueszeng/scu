@@ -1,0 +1,6 @@
+package scu
+
+const (
+	studentID = "输入正确的学号/工号"，
+	password = "输入my.scu.edu.cn密码"
+)

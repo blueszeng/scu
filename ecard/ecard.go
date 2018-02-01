@@ -15,10 +15,23 @@ type Transaction struct {
 	Balance float64 `json:"balance"` // 余额
 }
 
+// Transactions 交易数据
+type Transactions []Transaction
+
+func (t Transactions) Len() int {
+	return len(t)
+}
+func (t Transactions) Less(i, j int) bool {
+	return t[i].Time < t[j].Time
+}
+func (t Transactions) Swap(i, j int) {
+	t[j], t[i] = t[i], t[j]
+}
+
 // Card 一卡通记录
 type Card struct {
-	Balance      float64       `json:"balance"`      // 余额
-	Transactions []Transaction `json:"transactions"` //交易记录
+	Balance      float64      `json:"balance"`      // 余额
+	Transactions Transactions `json:"transactions"` //交易记录
 }
 
 // Get 获取一卡通余额以及历史交易记录

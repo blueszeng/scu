@@ -11,22 +11,22 @@ import (
 
 //UserInfo 用户信息
 type UserInfo struct {
-	UID       string `json:"uid"`
-	Name      string `json:"name"`
-	NameEN    string `json:"name_en"`
-	ID        string `json:"id"`
-	Sex       string `json:"sex"`
-	Type      string `json:"type"`
-	Status    string `json:"status"`
-	Nation    string `json:"nation"`
-	Native    string `json:"native"`
-	Birth     string `json:"birth"`
-	Political string `json:"political"`
-	College   string `json:"college"`
-	Major     string `json:"major"`
-	Year      string `json:"year"`
-	Class     string `json:"class"`
-	Campus    string `json:"campus"`
+	UID         string `json:"uid"`
+	Name        string `json:"name"`
+	NameEN      string `json:"name_en"`
+	CardID      string `json:"card_id"`
+	Sex         string `json:"sex"`
+	StudentType string `json:"student_type"`
+	Status      string `json:"status"`
+	Nation      string `json:"nation"`
+	Native      string `json:"native"`
+	Birth       string `json:"birth"`
+	Political   string `json:"political"`
+	College     string `json:"college"`
+	Major       string `json:"major"`
+	Year        string `json:"year"`
+	Class       string `json:"class"`
+	Campus      string `json:"campus"`
 }
 
 // Get 获取用户信息

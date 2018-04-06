@@ -21,8 +21,8 @@ func TestNewLibrary(t *testing.T) {
 		{
 			name: "登陆成功",
 			args: args{
-				studentID: test.StudentID,
-				password:  test.Password,
+				studentID: test.LibStudentID,
+				password:  test.LibPassword,
 			},
 			wantErr: false,
 		},
@@ -40,7 +40,7 @@ func TestNewLibrary(t *testing.T) {
 }
 
 func TestLibrary_GetLoanAll(t *testing.T) {
-	lib, _ := NewLibrary(test.StudentID, test.Password)
+	lib, _ := NewLibrary(test.LibStudentID, test.LibPassword)
 	type args struct {
 		URL string
 		c   *colly.Collector

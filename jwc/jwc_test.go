@@ -19,8 +19,8 @@ func TestLogin(t *testing.T) {
 		{
 			name: "登录成功！",
 			args: args{
-				studentID: test.StudentID,
-				password:  test.Password,
+				studentID: test.JwcStudentID,
+				password:  test.JwcPassword,
 			},
 			wantErr: false,
 		},

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e1ae9b6-50e4-4a1d-9ba8-a090ac01177b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Gopkg.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gopkg.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwc/util/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/jwc/util/util.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/array.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/expand.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/expand.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/filter.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/filter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/iteration.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/iteration.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/manipulation.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/manipulation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/property.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/property.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/query.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/query.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/traversal.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/traversal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/type.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/type.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/utilities.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/utilities.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/selector.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/andybalholm/cascadia/selector.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/bench.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/bench.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/compiler/compiler.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/compiler/compiler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/glob.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/glob.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/any.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/any.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/any_of.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/any_of.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/btree.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/btree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/contains.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/contains.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/every_of.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/every_of.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/list.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/list.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/match.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/match.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/max.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/max.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/min.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/min.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/nothing.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/nothing.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/prefix.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/prefix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/prefix_suffix.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/prefix_suffix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/range.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/range.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/row.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/row.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/segments.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/segments.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/single.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/single.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/suffix.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/suffix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/super.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/super.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/text.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/match/text.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/ast/ast.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/ast/ast.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/ast/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/ast/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/lexer/lexer.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/lexer/lexer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/lexer/token.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/lexer/token.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/syntax.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/syntax/syntax.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/util/runes/runes.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/util/runes/runes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/util/strings/strings.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gobwas/glob/util/strings/strings.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/.codecov.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/.codecov.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/colly.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/colly.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/context.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/context.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/debug/debug.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/debug/debug.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/debug/logdebugger.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/debug/logdebugger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/debug/webdebugger.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/debug/webdebugger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/htmlelement.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/htmlelement.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/http_backend.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/http_backend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/request.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/request.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/response.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/response.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/unmarshal.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/gocolly/colly/unmarshal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/AUTHORS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/CONTRIBUTORS" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/CONTRIBUTORS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/clone.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/clone.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/decode.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/decode.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/discard.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/discard.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/equal.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/equal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/extensions.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/extensions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_reflect.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_reflect.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/sanitize.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/kennygrant/sanitize/sanitize.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/2022.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/2022.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/AUTHORS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/detector.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/detector.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/icu-license.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/icu-license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/multi_byte.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/multi_byte.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/recognizer.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/recognizer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/single_byte.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/single_byte.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/unicode.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/unicode.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/utf8.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/saintfish/chardet/utf8.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/codecov.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/codecov.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/metalinter.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/metalinter.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/robotstxt.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/robotstxt.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/scanner.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/temoto/robotstxt/scanner.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/appengine.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/appengine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/appengine_vm.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/appengine_vm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/identity.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/identity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/api.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/api.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/api_classic.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/api_classic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/api_common.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/api_common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/app_id.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/app_id.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/app_identity/app_identity_service.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/app_identity/app_identity_service.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/app_identity/app_identity_service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/app_identity/app_identity_service.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/base/api_base.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/base/api_base.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/base/api_base.proto" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/base/api_base.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/datastore/datastore_v3.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/datastore/datastore_v3.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/datastore/datastore_v3.proto" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/datastore/datastore_v3.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/identity.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/identity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/identity_classic.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/identity_classic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/identity_vm.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/identity_vm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/internal.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/internal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/log/log_service.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/log/log_service.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/log/log_service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/log/log_service.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/main_vm.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/main_vm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/metadata.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/metadata.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/modules/modules_service.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/modules/modules_service.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/modules/modules_service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/modules/modules_service.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/net.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/net.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/regen.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/regen.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/remote_api/remote_api.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/remote_api/remote_api.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/remote_api/remote_api.proto" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/remote_api/remote_api.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/transaction.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/transaction.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/urlfetch/urlfetch_service.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/urlfetch/urlfetch_service.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/urlfetch/urlfetch_service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/internal/urlfetch/urlfetch_service.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/namespace.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/namespace.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/timeout.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/timeout.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/google.golang.org/appengine/urlfetch/urlfetch.go" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/google.golang.org/appengine/urlfetch/urlfetch.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="evaluate.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jwc/evaluate/evaluate.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+              <folding>
+                <element signature="e#17#109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/conf.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluate_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jwc/evaluate/evaluate_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="e#18#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.MD">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.git/config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jwc/util/util.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jwc/util/util.go" />
+        <option value="$PROJECT_DIR$/test/conf.go" />
+        <option value="$PROJECT_DIR$/jwc/evaluate/evaluate_test.go" />
+        <option value="$PROJECT_DIR$/jwc/evaluate/evaluate.go" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/.git/config" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1235" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scu" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="scu" />
+      <working_directory value="$PROJECT_DIR$/jwc/evaluate" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/mohuishou/scu/jwc/evaluate" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetEvaList$" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 45m 34s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 48m 27s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 48m 38s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 49m 15s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 49m 58s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 50m 53s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 51m 29s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 52m 17s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 52m 28s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetEvaList_in_github_com_mohuishou_scu_jwc_evaluate - 2018.06.15 at 22h 52m 53s.xml">
+      <configuration name="TestGetEvaList in github.com/mohuishou/scu/jwc/evaluate" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989605" visible="true" weight="0.15482573" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" sideWeight="0.5010395" side_tool="true" visible="true" weight="0.15482573" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32914925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jwc/exam/exam.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/sort/sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="215" column="5" selection-start-line="215" selection-start-column="5" selection-end-line="215" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jwc/exam/exam_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jwc/util/util.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/github.com/PuerkitoBio/goquery/iteration.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/github.com/gocolly/colly/colly.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="676" selection-start-line="676" selection-end-line="676" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/conf.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jwc/evaluate/evaluate.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#17#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jwc/evaluate/evaluate_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#18#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../scuplus-go/.git/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

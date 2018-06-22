@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e1ae9b6-50e4-4a1d-9ba8-a090ac01177b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ehall/ehall.go" beforeDir="false" afterPath="$PROJECT_DIR$/ehall/ehall.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ehall/grade/grade.go" beforeDir="false" afterPath="$PROJECT_DIR$/ehall/grade/grade.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ehall/grade/grade_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ehall/grade/grade_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,14 +40,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schdule.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="schdule.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ehall/schdule/schdule.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="1100">
               <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
               <folding>
                 <element signature="e#17#140#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ehall.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ehall/ehall.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="e#15#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.MD">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -101,16 +122,16 @@
         <option value="$PROJECT_DIR$/jwc/util/util.go" />
         <option value="$PROJECT_DIR$/jwc/evaluate/evaluate_test.go" />
         <option value="$PROJECT_DIR$/jwc/evaluate/evaluate.go" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/.git/config" />
         <option value="$PROJECT_DIR$/ehall/README.MD" />
         <option value="$PROJECT_DIR$/test/.gitignore" />
         <option value="$PROJECT_DIR$/test/conf.go" />
-        <option value="$PROJECT_DIR$/ehall/ehall.go" />
         <option value="$PROJECT_DIR$/ehall/grade/grade.go" />
         <option value="$PROJECT_DIR$/ehall/grade/grade_test.go" />
         <option value="$PROJECT_DIR$/ehall/schdule/schdule_test.go" />
         <option value="$PROJECT_DIR$/ehall/schdule/schdule.go" />
+        <option value="$PROJECT_DIR$/ehall/ehall.go" />
+        <option value="$PROJECT_DIR$/README.MD" />
       </list>
     </option>
   </component>
@@ -278,14 +299,14 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49688148" visible="true" weight="0.15683647" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49688148" visible="true" weight="0.15683647" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914925" />
       <window_info id="Structure" order="1" sideWeight="0.5031185" side_tool="true" weight="0.15683647" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914925" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -366,13 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../scuplus-go/.git/config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -408,16 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ehall/ehall.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#15#81#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -490,11 +494,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ehall/schdule/schdule.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="1100">
           <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
           <folding>
             <element signature="e#17#140#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ehall/ehall.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
         </state>
       </provider>
     </entry>

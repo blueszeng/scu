@@ -1,4 +1,4 @@
-package grade
+package schdule
 
 import (
 	"testing"
@@ -7,10 +7,10 @@ import (
 	"github.com/mohuishou/scu/test"
 )
 
-func TestGetGrades(t *testing.T) {
+func TestGet(t *testing.T) {
 	c, err := ehall.Login(test.EhallStudentID, test.EhallPassword)
 	if err != nil {
 		panic(err)
 	}
-	t.Log(Get(c))
+	t.Log(Get(c, "20172"))
 }

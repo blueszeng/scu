@@ -16,3 +16,7 @@ func Login(studentID, password string) (*colly.Collector, error) {
 	c.Visit("http://ehall.scu.edu.cn/login?service=http://ehall.scu.edu.cn/new/index.html")
 	return c, nil
 }
+
+func Logout(c *colly.Collector) {
+
+}

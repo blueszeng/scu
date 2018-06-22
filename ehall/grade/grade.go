@@ -28,7 +28,9 @@ type Grade struct {
 	Year       int     `json:"year"`
 }
 
-func GetGrades(c *colly.Collector) (grades []Grade, err error) {
+func Get(c *colly.Collector) (grades []Grade, err error) {
+	defer ehall.Logout(c)
+
 	// 需要先访问前置界面
 	c.Visit(ehall.DOMAIN + "/appShow?appId=5094115980385668")
 

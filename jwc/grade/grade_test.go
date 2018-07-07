@@ -58,7 +58,10 @@ func TestGetALL(t *testing.T) {
 }
 
 func TestGetNotPass(t *testing.T) {
-	c, _ := jwc.Login(test.StudentID, test.Password)
+	c, err := jwc.Login(test.JwcStudentID, test.JwcPassword)
+	if err != nil {
+		t.Fatal(err)
+	}
 	type args struct {
 		c *colly.Collector
 	}
